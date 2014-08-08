@@ -1,4 +1,4 @@
-4wings
+Plume
 ======
 
-SW to assist pilots of quadcopter based on Arduino
+Plume is a software developed to drive quadcopter.
